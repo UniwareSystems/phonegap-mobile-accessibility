@@ -16,9 +16,6 @@
         <clobbers target="MobileAccessibilityNotifications" />
     </js-module>
 
-   <dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device.git"  />
-   <dependency id="cordova-plugin-network-information" url="https://github.com/apache/cordova-plugin-network-information.git" />
-
     <!-- ios -->
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
