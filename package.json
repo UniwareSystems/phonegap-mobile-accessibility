@@ -1,5 +1,5 @@
 {
-  "name": "phonegap-mobile-accessibility",
+  "name": "phonegap-plugin-mobile-accessibility",
   "description": "PhoneGap Mobile Accessibility Plugin",
   "version": "1.0.8",
   "homepage": "http://github.com/phonegap/phonegap-mobile-accessibility#readme",
@@ -11,7 +11,7 @@
     "url": "https://github.com/phonegap/phonegap-mobile-accessibility/issues"
   },
   "cordova": {
-    "id": "phonegap-mobile-accessibility",
+    "id": "phonegap-plugin-mobile-accessibility",
     "platforms": [
       "ios",
       "android",
